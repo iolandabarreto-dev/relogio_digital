@@ -52,6 +52,4 @@ ________________________________________
 ________________________________________
 📄 Licença  
 Este projeto foi desenvolvido para fins educacionais e de portfólio.  
-```
 
-👉 Quer que eu prepare também uma **versão em inglês** para deixar o README mais internacional e atrativo para recrutadores?
